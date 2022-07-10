@@ -1,0 +1,4 @@
+nQua
+1
+Qua         Aproximacao
+0           3

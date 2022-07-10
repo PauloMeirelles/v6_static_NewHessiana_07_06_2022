@@ -1,0 +1,36 @@
+# vtk DataFile Version 2.0
+Test data for TETRA 10 bug
+ASCII
+DATASET UNSTRUCTURED_GRID
+POINTS 10 float
+0 0 0
+1 0 0
+2 0 0
+0 1 0
+1 1 0
+0 2 0
+0 0 1
+1 0 1
+0 1 1
+0 0 2
+
+CELLS 1 11
+10 0 2 5 9 1 4 3 6 7 8
+
+
+CELL_TYPES 1
+24
+
+POINT_DATA 10
+SCALARS scalars float 1
+LOOKUP_TABLE default
+0.0
+1.0
+4.0
+3.0
+4.0
+7.0
+6.0
+7.0
+10.0
+1.0

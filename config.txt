@@ -1,0 +1,24 @@
+Informe a pasta dos dados: 
+/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/TESTES_PAULO/Exemplo1_Chapa/
+Informe o arquivo de Tempo:
+listadetempo.txt
+Informe o arquivo de Metodo e OutputFile:
+listademetodo.txt
+Informe o arquivo de Materiais:
+listademateriais.txt
+Informe o arquivo de Nos:
+listadenos.txt
+Informe o arquivo de Condicoes de contorno  em deslocamento:
+listadecondcon.txt
+Informe o arquivo de Cargas concentradas aplicadas nos nos da estrutura:
+listadePconcentr.txt
+Informe o arquivo de Elementos:
+listadeelementos.txt
+Informe o arquivo de Quadraturas:
+listadequadraturas.txt
+Informe o arquivo de Relatorios:
+resultados/relatorio.txt
+Informe o arquivo para o Paraview:
+resultados/resultados.vtk
+Informe o arquivo de saida para Visualization Toolkit Unstructured Points Data (VTU):
+resultados/output.vtu

@@ -1,0 +1,4 @@
+nMa
+1
+Ma      E0          Ps0      Massa especific(rho)    Viscosidade dinamica(amortecimento)
+0       1.0         0.0          1.0                           0.0

@@ -1,0 +1,20 @@
+ForceStep
+2
+Tolerance
+0.0000001
+nTimeStep
+10
+TimeStep(s)      Beta(N.M)     Gamma(N.M)
+1                 0.25           0.5
+
+
+=========MANUAL DO USUARIO============
+#NewmarkBeta Aceleração Media Constante
+Beta= 0.25
+Gamma= 0.5
+
+#NewmarkBeta Aceleração Linear
+Beta= 0.167
+Gamma= 0.5
+
+

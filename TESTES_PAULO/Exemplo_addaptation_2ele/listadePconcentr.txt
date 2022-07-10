@@ -1,0 +1,31 @@
+nFC
+1
+No	dir     P
+1     1    100000000.00
+
+
+#FUTURA IMPLEMENTAÇAO FORÇA SISTEMA DINAMICO
+No	dir     P
+1     0    1.00
+9     0    1.00
+10    0    1.00
+2     0    1.00
+No	dir     P
+1     0    1.00
+9     0    1.00
+10    0    1.00
+2     0    1.00
+No	dir     P
+1     0    1.00
+9     0    1.00
+10    0    1.00
+2     0    1.00
+No	dir     P
+1     0    1.00
+9     0    1.00
+10    0    1.00
+2     0    1.00
+
+
+
+

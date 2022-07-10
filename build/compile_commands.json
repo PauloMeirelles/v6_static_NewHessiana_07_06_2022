@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/build",
+  "command": "/usr/bin/c++  -D__INSDIR__=\"\" -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/include -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/oem/petsc/include -I/home/oem/petsc/arch-linux2-c-debug/include -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX -isystem /usr/include/eigen3  -g   -std=gnu++17 -o CMakeFiles/NewFEMlib.dir/AUX/ALG.cpp.o -c /home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX/ALG.cpp",
+  "file": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX/ALG.cpp"
+},
+{
+  "directory": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/build",
+  "command": "/usr/bin/c++  -D__INSDIR__=\"\" -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/include -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/oem/petsc/include -I/home/oem/petsc/arch-linux2-c-debug/include -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX -isystem /usr/include/eigen3  -g   -std=gnu++17 -o CMakeFiles/NewFEMlib.dir/AUX/AppMethod.cpp.o -c /home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX/AppMethod.cpp",
+  "file": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX/AppMethod.cpp"
+},
+{
+  "directory": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/build",
+  "command": "/usr/bin/c++  -D__INSDIR__=\"\" -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/include -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/oem/petsc/include -I/home/oem/petsc/arch-linux2-c-debug/include -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX -isystem /usr/include/eigen3  -g   -std=gnu++17 -o CMakeFiles/NewFEMlib.dir/AUX/CCO.cpp.o -c /home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX/CCO.cpp",
+  "file": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX/CCO.cpp"
+},
+{
+  "directory": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/build",
+  "command": "/usr/bin/c++  -D__INSDIR__=\"\" -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/include -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/oem/petsc/include -I/home/oem/petsc/arch-linux2-c-debug/include -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX -isystem /usr/include/eigen3  -g   -std=gnu++17 -o CMakeFiles/NewFEMlib.dir/AUX/ELM.cpp.o -c /home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX/ELM.cpp",
+  "file": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX/ELM.cpp"
+},
+{
+  "directory": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/build",
+  "command": "/usr/bin/c++  -D__INSDIR__=\"\" -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/include -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/oem/petsc/include -I/home/oem/petsc/arch-linux2-c-debug/include -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX -isystem /usr/include/eigen3  -g   -std=gnu++17 -o CMakeFiles/NewFEMlib.dir/AUX/MAT.cpp.o -c /home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX/MAT.cpp",
+  "file": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX/MAT.cpp"
+},
+{
+  "directory": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/build",
+  "command": "/usr/bin/c++  -D__INSDIR__=\"\" -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/include -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/oem/petsc/include -I/home/oem/petsc/arch-linux2-c-debug/include -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX -isystem /usr/include/eigen3  -g   -std=gnu++17 -o CMakeFiles/NewFEMlib.dir/AUX/MumpsSolve.cpp.o -c /home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX/MumpsSolve.cpp",
+  "file": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX/MumpsSolve.cpp"
+},
+{
+  "directory": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/build",
+  "command": "/usr/bin/c++  -D__INSDIR__=\"\" -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/include -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/oem/petsc/include -I/home/oem/petsc/arch-linux2-c-debug/include -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX -isystem /usr/include/eigen3  -g   -std=gnu++17 -o CMakeFiles/NewFEMlib.dir/AUX/NOS.cpp.o -c /home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX/NOS.cpp",
+  "file": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX/NOS.cpp"
+},
+{
+  "directory": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/build",
+  "command": "/usr/bin/c++  -D__INSDIR__=\"\" -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/include -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/oem/petsc/include -I/home/oem/petsc/arch-linux2-c-debug/include -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX -isystem /usr/include/eigen3  -g   -std=gnu++17 -o CMakeFiles/NewFEMlib.dir/AUX/QUA.cpp.o -c /home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX/QUA.cpp",
+  "file": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX/QUA.cpp"
+},
+{
+  "directory": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/build",
+  "command": "/usr/bin/c++  -D__INSDIR__=\"\" -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/include -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/oem/petsc/include -I/home/oem/petsc/arch-linux2-c-debug/include -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX -isystem /usr/include/eigen3  -g   -std=gnu++17 -o CMakeFiles/NewFEMlib.dir/AUX/TEMPO.cpp.o -c /home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX/TEMPO.cpp",
+  "file": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX/TEMPO.cpp"
+},
+{
+  "directory": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/build",
+  "command": "/usr/bin/c++  -D__INSDIR__=\"\" -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/include -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/oem/petsc/include -I/home/oem/petsc/arch-linux2-c-debug/include -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX -isystem /usr/include/eigen3  -g   -std=gnu++17 -o CMakeFiles/NewFEMlib.dir/AUX/solution.cpp.o -c /home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX/solution.cpp",
+  "file": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX/solution.cpp"
+},
+{
+  "directory": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/build/Examples",
+  "command": "/usr/bin/c++  -D__INSDIR__=\"\" -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/include -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -I/usr/lib/x86_64-linux-gnu/openmpi/include -I/home/oem/petsc/include -I/home/oem/petsc/arch-linux2-c-debug/include -I/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/AUX -isystem /usr/include/eigen3  -g   -std=gnu++17 -o CMakeFiles/BasicFEM.dir/main.cpp.o -c /home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/Examples/main.cpp",
+  "file": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/Examples/main.cpp"
+}
+]

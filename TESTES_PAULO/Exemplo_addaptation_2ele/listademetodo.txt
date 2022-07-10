@@ -1,0 +1,19 @@
+Metodo de interpolacao
+1
+OutputFile
+2
+
+
+ Arquivo para definição do método de interpolaço e OutputFile
+ 
+#========== MANUAL DO USUARIO =======
+Metodos de Interpolaço (pos-processamento)
+0 ->  Minimos Quadrados Globais (PseudoInversa matriz GLobal) obs: nao indicado para problemas com muitos elementos
+1 ->  Minimos Quadrados Locais (PseudoInversa Local) obs: indicado para todo problema
+ 
+OutputFiles
+0 -> Arquivo .vtk interpolado no contorno
+1 -> Arquivo .vtk nao interpolado no contorno
+2 -> Arquivo .vtu interpolado
+ 
+ 

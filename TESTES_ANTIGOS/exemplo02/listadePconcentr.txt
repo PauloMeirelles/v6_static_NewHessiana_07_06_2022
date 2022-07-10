@@ -1,0 +1,9 @@
+nFC
+1
+No	dir     P
+6       1       -1
+
+nFC
+1
+No	dir     P
+3       1       -0.1

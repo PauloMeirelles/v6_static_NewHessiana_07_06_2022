@@ -1,0 +1,2 @@
+Elementos Finitos Posicional
+18 elementos tetraedricos com aproximacao cubica (20 nos) 

@@ -1,0 +1,2 @@
+Elementos Finitos Posicional
+Elementos triangulares com aproximacao cubica (10 nos) 

@@ -1,0 +1,28 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "make",
+            "type": "shell",
+            "command": "make",
+            "args": [
+                "-j4"
+            ], 
+            "options": {
+                "cwd": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/build/"
+            }
+        },
+        {
+            "label": "build",
+            "type": "shell",
+            "options": {
+                "cwd": "/home/oem/PRG/CPP/Paulo/MEFPoro/v6_static_NewHessiana_07_06_2022/build/"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "dependsOn": ["make"]
+        }
+    ]
+}
