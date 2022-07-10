@@ -17,7 +17,7 @@
 #OBSEVAÇÃO: IMPLEMENTADO vtu, incremento de passo de força, nova rotina de construção matriz Hessiana tipo Petsc
 
 
-**Solver em ajustes MUMPS(LU e Cholesky), novo gera .vtu e "alteração da resolução da pseudoinversa global para local (EM ANDAMENTO)"**
+**Solver em ajustes MUMPS(LU e Cholesky), novo gera .vtu e CORREÇÃO DO PROGRAMA GLOBAL "**
 
 
 
