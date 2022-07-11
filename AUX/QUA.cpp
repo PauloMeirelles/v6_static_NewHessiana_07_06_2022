@@ -16,7 +16,7 @@ CQuadratura::~CQuadratura()
 
 void Le_Quadraturas(tvQuadratura& Qua, const std::string& NAr)
 {
-  int nQua;           ///< numero de quadraturas a serem lidas;
+  int nQua=0;           ///< numero de quadraturas a serem lidas;
   char s[1000];       ///< variavel auxiliar
   std::ifstream Ent;  ///< arquivo de leitura
   Ent.open(NAr.c_str());
@@ -25,7 +25,7 @@ void Le_Quadraturas(tvQuadratura& Qua, const std::string& NAr)
   Ent.getline(s,1000);
   for (int i=0; i<nQua; i++)
   {
-	  int Quad,NumberQuad;
+	  int Quad,NumberQuad;Quad=0; NumberQuad=0;
 	  Ent >> Quad >> NumberQuad; Ent.getline(s,1000);
 	  CQuadratura LeQua (Quad,NumberQuad);
 	  Qua.push_back(LeQua);

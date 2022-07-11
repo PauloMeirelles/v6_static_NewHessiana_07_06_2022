@@ -26,11 +26,11 @@ tvMa Le_Mat(const std::string& NAr)
 
   for (i=0; i<nMa; i++)
   {
-	  double _E0;
-	  double _Nu0;
-	  double _rho;
-	  double _Mi;
-	  int NMat;
+	  double _E0=0.0;
+	  double _Nu0=0.0;
+	  double _rho=0.0;
+	  double _Mi=0.0;
+	  int NMat=0.0;
 	  Ent >> NMat >> _E0 >> _Nu0 >> _rho >> _Mi; Ent.getline(s,1000);
 	  Ma.push_back(CMa(NMat,_E0,_Nu0,_rho,_Mi));
   }

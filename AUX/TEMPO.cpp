@@ -12,10 +12,10 @@ TEMPO::TEMPO(const int& _TimeStep, const int& _NTimeStep,  const int& _ForceStep
 
 void Le_Tempo(tvTempo &vTempo, const std::string& NAr)
 {
-  int nTimeStep;       ///< Numero de passos de tempo
-  int TimeStep;        ///< Valor do passos de tempo
-  int ForceStep;       ///< Valor do passos de tempo
-  double Beta, Gamma, Tolerance;  ///< Beta e Gamma Newmark Beta, Tolerancia
+  int nTimeStep=0;       ///< Numero de passos de tempo
+  int TimeStep=0;        ///< Valor do passos de tempo
+  int ForceStep=0;       ///< Valor do passos de tempo
+  double Beta, Gamma, Tolerance; Beta=0.0; Gamma=0.0; Tolerance=0.0;  ///< Beta e Gamma Newmark Beta, Tolerancia
   char s[1000];        ///< Variavel auxiliar
   std::ifstream Ent;   ///< Arquivo de leirura
   Ent.open(NAr.c_str());

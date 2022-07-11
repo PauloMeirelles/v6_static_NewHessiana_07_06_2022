@@ -32,7 +32,7 @@ CNo::~CNo()
 
 void Le_Nos(tvNo& No, const std::string& NAr)
 {
-  int nNo;            ///< Numero de nos a ser lido
+  int nNo=0;            ///< Numero de nos a ser lido
   char s[1000];       ///< Variavel auxiliar
   std::ifstream Ent;  ///< Arquivo de leirura
   Ent.open(NAr.c_str());
@@ -41,8 +41,8 @@ void Le_Nos(tvNo& No, const std::string& NAr)
   Ent.getline(s,1000);
   for (int i=0; i<nNo; i++)
   {
-    double x[2],y[2];
-	  int NumberNo;
+    double x[2],y[2]; x[0]=0.0; x[1]=0.0; y[0]=0.0; y[1]=0.0;
+	  int NumberNo=0;
 	  Ent >> x[0] >> x[1] >> NumberNo; Ent.getline(s,1000);
     y[0]=x[0]; //coord inicial
 	  y[1]=x[1]; //coord final 
@@ -53,7 +53,7 @@ void Le_Nos(tvNo& No, const std::string& NAr)
 
 void Le_CC(tvNo& No, const std::string& NAr, int& ngl)
 {
-  int nCC;            ///< Numero de nos a ser lido
+  int nCC=0.0;            ///< Numero de nos a ser lido
   char s[1000];       ///< Variavel auxiliar
   std::ifstream Ent;  ///< Arquivo de leirura
   Ent.open(NAr.c_str());
@@ -62,11 +62,11 @@ void Le_CC(tvNo& No, const std::string& NAr, int& ngl)
   Ent.getline(s,1000);
   for (int i=0; i<nCC; i++)
   {   
-  int no;
+  int no=0.0;
 	int dirX=0;
   int dirY=1;
   bool x1, x2;
-	double vCondCountourX, vCondCountourY;
+	double vCondCountourX, vCondCountourY; vCondCountourX=0.0; vCondCountourY=0.0;
 	Ent >> vCondCountourX >> vCondCountourY >> no >> x1 >> x2; Ent.getline(s,1000);
     if(x1!=0) 
     { 
@@ -81,9 +81,7 @@ void Le_CC(tvNo& No, const std::string& NAr, int& ngl)
       No[no].w_X(1,dirY,vCondCountourY);
     }
   }
-  int k,n;
-  k=0;
-  n=0;
+  int k,n;k=0;n=0;
   for (int i=0; i<No.size(); i++)
   {
 	  for (int j=0; j<2; j++)
